@@ -9,8 +9,8 @@
 ### 2025-01
 
 ## Integrantes
-- [Ricardo]([https://github.com/xxx](https://github.com/Quengue))
-- [Kayla]([https://github.com/xxx](https://github.com/JohnnyD3pp))
+- [Ricardo](https://github.com/Quengue)
+- [Kayla](https://github.com/JohnnyD3pp))
 - [João](https://github.com/xxx)
 - [Gustavo](https://github.com/xxx)
 - [Ícaro](https://github.com/xxx)
