@@ -11,7 +11,7 @@
 ## Integrantes
 - [Ricardo](https://github.com/Quengue)
 - [Kayla](https://github.com/JohnnyD3pp)
-- [João](https://github.com/xxx)
+- [João](https://github.com/JVYazbek)
 - [Gustavo](https://github.com/xxx)
 - [Ícaro](https://github.com/xxx)
 
