@@ -60,7 +60,7 @@
 
 ## Descrição do Projeto
 
-<Descrição do Projeto>
+Este projeto tem como intuito prestar uma homenangem ao desenho animado Ben 10, fizemos texturas e um mundo de minecraft para homenagear este nosso desenho de infância.
 
 # Licença
 
