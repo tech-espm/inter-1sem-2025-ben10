@@ -19,11 +19,11 @@ núcleo centro da criação
 <p align="center">
     <a href="https://www.espm.br/cursos-de-graduacao/sistemas-de-informacao/"><img src="https://github.com/tech-espm/inter-1sem-2025-ben10/blob/main/5.jpeg " alt="Sistemas de Informação ESPM" style="width: 375px;"/></a>
 </p>
-
+bola de canhao por fora
 <p align="center">
     <a href="https://www.espm.br/cursos-de-graduacao/sistemas-de-informacao/"><img src="https://github.com/tech-espm/inter-1sem-2025-ben10/blob/main/6.jpeg " alt="Sistemas de Informação ESPM" style="width: 375px;"/></a>
 </p>
-
+bola de canhao por dentro
 <p align="center">
     <a href="https://www.espm.br/cursos-de-graduacao/sistemas-de-informacao/"><img src="https://github.com/tech-espm/inter-1sem-2025-ben10/blob/main/7.jpeg " alt="Sistemas de Informação ESPM" style="width: 375px;"/></a>
 </p>
