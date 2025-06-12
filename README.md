@@ -1,6 +1,54 @@
 # Projeto Integrado I - Sistemas de Informação ESPM
 
 <p align="center">
+    <a href="https://www.espm.br/cursos-de-graduacao/sistemas-de-informacao/"><img src="https://raw.githubusercontent.com/tech-espm/misc-template/main/logo.png" alt="Sistemas de Informação ESPM" style="width: 375px;"/></a>
+</p>
+
+# Mundo de Minecraft em Homenagem ao Ben 10
+
+### 2025-01
+
+## Integrantes
+- [Ricardo](https://github.com/Quengue)
+- [Kayla](https://github.com/JohnnyD3pp)
+- [João](https://github.com/JVYazbek)
+- [Gustavo](https://github.com/xxx)
+- [Ícaro](https://github.com/xxx)
+
+## Descrição do Projeto
+
+O universo das animações sempre exerceu grande influência na formação cultural e no
+desenvolvimento da imaginação de crianças e adolescentes. No início dos anos 2000, uma
+dessas produções destacou-se de maneira significativa: Ben 10. Criada pelos estúdios Cartoon
+Network, a série acompanha a história de Benjamin Tennyson, um garoto que, durante as
+férias de verão, encontra um dispositivo alienígena chamado Omnitrix, que lhe permite se
+transformar em diferentes espécies de alienígenas, cada uma com habilidades específicas.
+
+O sucesso de Ben 10 não se restringiu apenas à televisão. A série deu origem a diversos
+produtos, como jogos, filmes, quadrinhos e uma ampla gama de brinquedos. O apelo do
+desenho está diretamente relacionado à sua proposta de aventura, transformação e resolução
+de problemas, elementos que despertaram, e ainda despertam, fascínio em gerações de fãs ao
+redor do mundo.
+
+A motivação para este projeto surgiu, justamente, da conexão emocional construída na
+infância com esse universo. Mais do que uma simples referência à série, o presente trabalho
+busca transformar essa paixão em uma proposta criativa e estruturada, explorando as
+possibilidades de desenvolvimento de um projeto baseado no conceito do Omnitrix, no uso de
+tecnologia, design e criatividade.
+
+Este documento segue as normas acadêmicas estabelecidas pela ESPM e tem como finalidade
+apresentar, de maneira clara e organizada, a fundamentação, desenvolvimento e aplicação do
+projeto, garantindo coesão, clareza conceitual e alinhamento às diretrizes propostas.
+
+### Objetivo
+
+O objetivo do projeto foi homenagear a série animada “Ben 10” que marcou a infância
+de todos os participantes, fizemos um “resource pack” para tal, criando blocos, “mobs”, mundo
+e remodelando “mobs”.
+
+## Áreas do Mapa
+
+<p align="center">
     <a href="https://www.espm.br/cursos-de-graduacao/sistemas-de-informacao/"><img src="https://github.com/tech-espm/inter-1sem-2025-ben10/blob/main/1.jpeg " alt="Sistemas de Informação ESPM" style="width: 375px;"/></a>
 </p>
 Trailer Vô Max
@@ -65,20 +113,12 @@ casa dos tennison
 </p>
 Programção Omnitrix
 
-# Mundo de Minecraft em homenagem à série Ben 10
+## Conclusões
 
-### 2025-01
-
-## Integrantes
-- [Ricardo](https://github.com/Quengue)
-- [Kayla](https://github.com/JohnnyD3pp)
-- [João](https://github.com/JVYazbek)
-- [Gustavo](https://github.com/xxx)
-- [Ícaro](https://github.com/xxx)
-
-## Descrição do Projeto
-
-Este projeto tem como intuito prestar uma homenangem ao desenho animado Ben 10, fizemos texturas e um mundo de minecraft para homenagear este nosso desenho de infância.
+Aplicamos diversas lições que foram aprendidas em sala de aula neste projeto, usamos
+de python para fazer a programação do minecraft education, fizemos um projeto de redes
+complementar à nossa rede no mundo, fizemos texturas e remodelamos novos “mobs” e
+estamos muito felizes com o resultado de todo nosso aprendizado durante este semestre.
 
 # Licença
 
